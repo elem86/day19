@@ -31,7 +31,7 @@ Countries like the USA, China, and Russia unsurprisingly dominate the top, but t
 
 📂 Files on GitHub: 🔗 https://github.com/elem86/day19
 
-📷 Screenshot and full code in comments.
+📷 Screenshot below.
 
 #Python #DataVisualization #Olympics #DataAnalytics #Matplotlib #Seaborn #OneProjectADay #Day19 #OpenToWork #SportsData
 
